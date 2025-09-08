@@ -1,0 +1,12 @@
+Assignment Overview
+Goal: Use visual exploration and probability‑based summaries to answer: Will a customer accept the coupon?
+
+Accepted = Y = 1 (“Right away” or “Later, before the coupon expires”)
+Not accepted = Y = 0 (“No, I do not want the coupon”)
+Coupon types: Less expensive restaurants (< 20), Coffee House, Carryout & Takeaway, Bar, More expensive restaurants (
+ 20–$50).
+What you’ll deliver in this notebook:
+
+Clean, readable EDA that contrasts accepted vs. not accepted groups
+Clear plots (Matplotlib/Seaborn) with descriptive titles and readable labels
+A concise Findings & Recommendations section with actionable next steps
